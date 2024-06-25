@@ -6,6 +6,8 @@
 
     <a href="{{ route('users.create') }}">Novo</a>
 
+    <x-alert/>
+
     <table>
         <thead>
             <tr>
